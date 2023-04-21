@@ -1,0 +1,10 @@
+{
+    "name": "Assesment",
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {}
+  }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  
